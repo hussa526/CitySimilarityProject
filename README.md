@@ -11,3 +11,6 @@ citydataset.csv - a csv file made by myself with data from the Canadian and US c
 main - running the program
 
 create_graph - creating my graph from the scores generated in personal_prject.py
+
+
+<img width="1422" alt="ghgh" src="https://github.com/hussa526/CitySimilarityProject/assets/145369644/6b479716-d0b8-4ab9-8b80-cf4e3949d046">
